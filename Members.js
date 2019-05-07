@@ -9,7 +9,7 @@ const members = [
         id: 2,
         name: 'Bob Williams',
         email: 'bob@gmail.com',
-        status: 'inactive'
+        status: 'inactive' 
     },
     {
         id: 3,
